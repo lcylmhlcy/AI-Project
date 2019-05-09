@@ -24,4 +24,4 @@
   
 [Running on mobile with TensorFlow Lite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)  
   
-  
+[tensorflow 源码安装](https://www.tensorflow.org/install/source)  
