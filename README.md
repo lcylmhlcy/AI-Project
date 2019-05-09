@@ -22,3 +22,6 @@
   
 [tensorflow-android get started object detection](https://tensorflow.google.cn/lite/models/object_detection/overview)  
   
+[Running on mobile with TensorFlow Lite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)  
+  
+  
