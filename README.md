@@ -25,3 +25,5 @@
 [Running on mobile with TensorFlow Lite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)  
   
 [tensorflow 源码安装](https://www.tensorflow.org/install/source)  
+  
+[TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
