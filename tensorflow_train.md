@@ -8,7 +8,7 @@
 7. 训练模型会存在 `train` 文件下，有关训练参数的设置都在 `ssd_mobilenet_v1_pets.config` 文件内。
 8. 编辑 `ckpt_to_pb.sh` 中的最后一个语句中的 `trained_checkpoint_prefix` ，改为自己 `train` 文件夹中的模型。运行这个sh文件。 
 9. `output` 文件夹中得到 `frozen_inference_graph.pb` ，拷贝到本机android项目 `assests` 路径中，自定义一个 `labels.txt` ，格式参照已有的 `meter_labels.txt` 。
-10. 打开Android studio，编辑android项目中的 `DetectorActivity` 文件，66行和68行替换成自己的pb文件和txt文件，运行项目，安装app到安卓手机。
+10. 打开Android studio，编辑 [tensorflow android 项目](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) 中的 `DetectorActivity` 文件，66行和68行替换成自己的pb文件和txt文件，运行项目，安装app到安卓手机。
 
 
 
