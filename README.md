@@ -4,11 +4,11 @@
 
 ## 主任务
 1. 标注数据
-2. 基于已搭建好的tensorflow环境，用ssd+mobilenet训练模型。
+2. 基于已搭建好的tensorflow环境，用ssd+mobilenet训练模型，并在安卓端部署。
 
 
 ## 试验型任务（支线任务）
-1. tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。
+1. tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。（完成）
 2. 将tensorflow pb模型转为lite，安卓部署试验。
 
 ## website
