@@ -12,6 +12,7 @@
 ## 试验型任务（支线任务）
 1. tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。（完成）
 2. 将tensorflow pb模型转为lite，安卓部署试验。
+3. tensorflow 除了 ssd + mobilenet，是否还有其它在android上支持的模型？？？
 
 ## website
 [Detecting Pikachu on Android using Tensorflow Object Detection](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd)  
