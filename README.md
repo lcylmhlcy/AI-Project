@@ -1,13 +1,10 @@
 # Project-Arrangement
-实验室项目的时间和任务安排
-
 
 ## 主任务
 1. 标注数据
 2. 基于已搭建好的tensorflow环境，用ssd+mobilenet训练模型，并在安卓端部署。
 3. 对仪表数据进行标注，完成仪表识别和仪表读数。（正在进行）
 4. 对其余数据进行标注，并训练模型。
-
 
 ## 试验型任务（支线任务）
 1. tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。（完成）
