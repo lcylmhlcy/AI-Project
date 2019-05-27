@@ -3,6 +3,8 @@
 2. 下载 [BaiduYun破解软件](https://github.com/lcylmhlcy/BaiduYunCrack_windows/archive/master.zip)，解压后再解压其中的 `PanDownload_v2.0.4.zip`，点击其中的exe文件即可。
 3. 登入 2 中的百度云，下载分配到任务的数据。
 4. 打开 `LabelImg`，点击 `open dir`，选择自己数据的文件夹，进行标注。
+  
+注意：LabelImg 可能需要电脑安装 Python3.6，之后在 python 中 安装 PyQt5 和 lxml.
 
 ## 任务安排
 **注：00 or 01 or 03 是要下载的总文件夹名，所有下载方式为百度云下载**  
