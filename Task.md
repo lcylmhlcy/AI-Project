@@ -10,17 +10,17 @@
 **注：一张图片对应一个xml，切记不要更改图片名字**  
   
 1. 2019-5-27 安排 （一天完成）
-  - 冯瀚为韬 00 anquanmao 1-4, duijiangji
-  - 王云龙 00 konghu 1-5
-  - 周浩楠 00 qitijianceyi 1-6
-  - 孙琪超 00 qitijianceyi 7-13
-  - 马跃 01 mhqbabnormal 1-5
-  - 贾俊辰 01 mhqbnormal 1-6
-  - 师印亮 01 mhqbnormal 7-12
-  - 戢昊男 01 xiaofangchan 1-4, xiaofangfu 1-2
-  - 卢世博 01 xiaofanggou 1-5
-  - 李承阳 01 xiaofangtong 1-2 
-  - 张法凯 03 biaotaoyali 1-3, jinganxitongqiyuanyali 1-3
+    - 冯瀚为韬 00 anquanmao 1-4, duijiangji
+    - 王云龙 00 konghu 1-5
+    - 周浩楠 00 qitijianceyi 1-6
+    - 孙琪超 00 qitijianceyi 7-13
+    - 马跃 01 mhqbabnormal 1-5
+    - 贾俊辰 01 mhqbnormal 1-6
+    - 师印亮 01 mhqbnormal 7-12
+    - 戢昊男 01 xiaofangchan 1-4, xiaofangfu 1-2
+    - 卢世博 01 xiaofanggou 1-5
+    - 李承阳 01 xiaofangtong 1-2 
+    - 张法凯 03 biaotaoyali 1-3, jinganxitongqiyuanyali 1-3
 
 ## 参与人员
 - 郑永明 中油瑞飞公司
