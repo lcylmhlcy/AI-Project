@@ -27,6 +27,7 @@
     - 张法凯 03 biaotaoyali 1-3, jinganxitongqiyuanyali 1-3
 2. 2019-5-30 安排
     - 万博华 03 taoya 1-3, kongzhijinqiyali, kongzhihuiluyali
+    - 孙琪超 03 jinganxitongqiyuanyali 1-15
 
 ## 参与人员
 - 郑永明 中油瑞飞公司
