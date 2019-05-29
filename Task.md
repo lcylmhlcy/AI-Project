@@ -29,6 +29,8 @@
     - 万博华 03 taoya 1-3, kongzhijinqiyali, kongzhihuiluyali
     - 孙琪超 03 jinganxitongqiyuanyali 1-15
     - 张娜 03 jinganxitongqiyuanyali 16-27
+    - 王云龙 03 jingkouwendu 1-3
+    - 冯翰为韬 03 jingkouyouya 1-3
 
 ## 参与人员
 - 郑永明 中油瑞飞公司
