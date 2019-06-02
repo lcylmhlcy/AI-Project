@@ -8,9 +8,16 @@
 
 ## 试验型任务（支线任务）
 1. tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。（完成）
-2. 将tensorflow pb模型转为lite，安卓部署试验。
+2. 将tensorflow pb模型转为lite，安卓部署试验。（完成）
 3. tensorflow 除了 ssd + mobilenet，是否还有其它在android上支持的模型？？？
 4. [ncnn](https://github.com/Tencent/ncnn) 看着不错，有时间搞搞。例子：[ncnnforandroid_objectiondetection_Mobilenetssd](https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd)
+
+## 主要问题：
+画面有被检测目标时，能框出目标。但是只有背景时，会出现大物体被误检。  
+<p>
+	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/3.jpg" alt="Sample">
+	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/4.jpg" alt="Sample">
+</p>  
 
 ## website
 [Detecting Pikachu on Android using Tensorflow Object Detection](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd)  
