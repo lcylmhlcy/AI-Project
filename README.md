@@ -15,8 +15,8 @@
 ## 主要问题：
 画面有被检测目标时，能框出目标。但是只有背景时，会出现大物体被误检。  
 <p>
-	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/3.jpg" alt="Sample">
-	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/4.jpg" alt="Sample">
+	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/3.jpg" alt="Sample" width=400>
+	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/4.jpg" alt="Sample" width=400>
 </p>  
 
 ## website
