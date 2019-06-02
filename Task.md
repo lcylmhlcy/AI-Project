@@ -26,13 +26,13 @@
     - 李承阳 01 xiaofangtong 1-2 
     - 张法凯 03 biaotaoyali 1-3, jinganxitongqiyuanyali 1-3
 2. 2019-5-30 安排
-    - 孙琪超 03 jinganxitongqiyuanyali 1-15
-    - 张娜 03 jinganxitongqiyuanyali 16-27
+    - 孙琪超 03 jinganxitongqiyuanyali 1-15 (get)
+    - 张娜 03 jinganxitongqiyuanyali 16-27 (get)
     - 王云龙 03 jingkouwendu 1-3
-    - 冯翰为韬 03 jingkouyouya 1-3
+    - 冯翰为韬 03 jingkouyouya 1-3 (get)
     - 马跃 03 jingxiaanquanfakongzhiyali
     - 贾俊辰 03 jitaoyali 1-3
-    - 万博华 03 taoya 1-3, kongzhijinqiyali, kongzhihuiluyali
+    - 万博华 03 taoya 1-3, kongzhijinqiyali, kongzhihuiluyali (get)
 
 ## 参与人员
 - 郑永明 中油瑞飞公司
