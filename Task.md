@@ -31,7 +31,7 @@
     - 王云龙 03 jingkouwendu 1-3 (get)
     - 冯翰为韬 03 jingkouyouya 1-3 (get)
     - 马跃 03 jingxiaanquanfakongzhiyali (get)
-    - 贾俊辰 03 jitaoyali 1-3
+    - 贾俊辰 03 jitaoyali 1-3 (get)
     - 万博华 03 taoya 1-3, kongzhijinqiyali, kongzhihuiluyali (get)
 
 ## 参与人员
