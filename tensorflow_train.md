@@ -11,6 +11,18 @@
 10. 打开Android studio，编辑 [tensorflow android 项目](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) 中的 `DetectorActivity` 文件，66行和68行替换成自己的pb文件和txt文件，运行项目，安装app到安卓手机。
 
 
+## 注意事项
+1. `ssd_mobilenet_v1_pets.config` 文件：
+    - 第143行 batch_size
+    - 第148行 initial_learning_rate
+    - 第158行 fine_tune_checkpoint
+        - "../ssd_mobilenet_v1_coco_11_06_2017/model.ckpt"
+        - 不加载，从头训练
+    - 第159行 num_steps 最大迭代次数
+    - 第173，175，187，189行 需要按自己的目录更改
+    - 第161，165行 数据增强策略，应该可以添加。默认水平翻转和随机切割
+    - **第85行 depth_multiplier 模型压缩比率 默认为1不压缩，网上压缩设为0.3时模型文件在1M以内，且20ms**
+
 
 ## 其它
 1. 运行程序断开与服务器连接也可运行。
