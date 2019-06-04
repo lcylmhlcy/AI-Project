@@ -4,15 +4,17 @@
 3. 将数据上传到 `sample` 文件夹下，数据可分为两个文件夹，一个文件夹重命名为 `train` ，另一个重命名为 `test` 。
 4. cd到这个sample文件夹下，激活虚拟环境 `conda activate tf` ，编辑 `generate_tfrecord.py` 文件，第32行改成 **自己的标签名字** 。
 5. 编辑 `object-detection.pbtxt` 文件，同样改为 **自己的标签名字** ，注意 id 的序号应与 `generate_tfrecord.py` 的一致。
-6. 运行 `mytrain.sh` 。注：没有测试数据可将 `mytrain.sh` 中的有关 `test` 的都注释掉。
-7. 训练模型会存在 `train` 文件下，有关训练参数的设置都在 `ssd_mobilenet_v1_pets.config` 文件内。
-8. 编辑 `ckpt_to_pb.sh` 中的最后一个语句中的 `trained_checkpoint_prefix` ，改为自己 `train` 文件夹中的模型。运行这个sh文件。 
-9. `output` 文件夹中得到 `frozen_inference_graph.pb` ，拷贝到本机android项目 `assests` 路径中，自定义一个 `labels.txt` ，格式参照已有的 `meter_labels.txt` 。
-10. 打开Android studio，编辑 [tensorflow android 项目](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) 中的 `DetectorActivity` 文件，66行和68行替换成自己的pb文件和txt文件，运行项目，安装app到安卓手机。
+6. 修改 `ssd_mobilenet_v1_pets.config` , 参考下下面注意事项的第一个。
+7. 运行 `mytrain.sh` 。注：没有测试数据可将 `mytrain.sh` 中的有关 `test` 的都注释掉。
+8. 训练模型会存在 `train` 文件下，有关训练参数的设置都在 `ssd_mobilenet_v1_pets.config` 文件内。
+9. 编辑 `ckpt_to_pb.sh` 中的最后一个语句中的 `trained_checkpoint_prefix` ，改为自己 `train` 文件夹中的模型。运行这个sh文件。 
+10. `output` 文件夹中得到 `frozen_inference_graph.pb` ，拷贝到本机android项目 `assests` 路径中，自定义一个 `labels.txt` ，格式参照已有的 `meter_labels.txt` 。
+11. 打开Android studio，编辑 [tensorflow android 项目](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android) 中的 `DetectorActivity` 文件，66行和68行替换成自己的pb文件和txt文件，运行项目，安装app到安卓手机。
 
 
 ## 注意事项
 1. `ssd_mobilenet_v1_pets.config` 文件：
+    - 第9行 num_classes 要检测的数目
     - 第143行 batch_size
     - 第148行 initial_learning_rate
     - 第158行 fine_tune_checkpoint
