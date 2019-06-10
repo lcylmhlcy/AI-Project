@@ -3,7 +3,13 @@
 2. 首先使用 [labelImg](https://github.com/tzutalin/labelImg/files/2638199/windows_v1.8.1.zip) 标注数据。注：一张图片一个xml，标注完图片名字不能更改，否则与xml对应不上。
 3. 将数据上传到 `sample` 文件夹下，数据可分为两个文件夹，一个文件夹重命名为 `train` ，另一个重命名为 `test` 。
 4. cd到这个sample文件夹下，激活虚拟环境 `conda activate tf` ，编辑 `generate_tfrecord.py` 文件，第32行改成 **自己的标签名字** 。
+<p>
+	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/5.png" alt="Sample" height=400>
+</p> 
 5. 编辑 `object-detection.pbtxt` 文件，同样改为 **自己的标签名字** ，注意 id 的序号应与 `generate_tfrecord.py` 的一致。
+<p>
+	<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/6.png" alt="Sample" height=400>
+</p> 
 6. 修改 `ssd_mobilenet_v1_pets.config` , 参考下下面注意事项的第一个。
 7. 运行 `mytrain.sh` 。注：没有测试数据可将 `mytrain.sh` 中的有关 `test` 的都注释掉。
 8. 训练模型会存在 `train` 文件下，有关训练参数的设置都在 `ssd_mobilenet_v1_pets.config` 文件内。
