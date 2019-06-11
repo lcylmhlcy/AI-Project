@@ -34,14 +34,14 @@
     - 贾俊辰 03 jitaoyali 1-3 (get)
     - 万博华 03 taoya 1-3, kongzhijinqiyali, kongzhihuiluyali (get)
 3. 2019-6-6 安排
-    - 孙琪超 01 xiaofangtong 1-2
-    - 万博华 04 01 hsjcgw 1-3
-    - 冯瀚为韬 04 01 hsjcgw 4-5
-    - 王云龙 04 04 fkfyg 1-2
-    - 周浩楠 04 04 fkfyg 3-4
-    - 师印亮 05 02 czqdfybfyl 1-2
-    - 马跃 05 03 dqpyl 1-3
-    - 贾俊辰 05 04 pressure 1-4
+    - 孙琪超 01 xiaofangtong 1-2 (get)
+    - 万博华 04 01 hsjcgw 1-3 (get)
+    - 冯瀚为韬 04 01 hsjcgw 4-5 (get)
+    - 王云龙 04 04 fkfyg 1-2 (get)
+    - 周浩楠 04 04 fkfyg 3-4 (get)
+    - 师印亮 05 02 czqdfybfyl 1-2 (get)
+    - 马跃 05 03 dqpyl 1-3 (get)
+    - 贾俊辰 05 04 pressure 1-4 (get)
     
 ## 参与人员
 - 郑永明 中油瑞飞公司
