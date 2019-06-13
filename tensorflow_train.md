@@ -30,7 +30,7 @@
     - 第173，175，187，189行 需要按自己的目录更改
     - 第161，165行 数据增强策略，应该可以添加。默认水平翻转和随机切割
 	    <p>
-		<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/7.jpg" alt="Sample">
+		<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/8.jpg" alt="Sample">
 	    </p> 
     - **第85行 depth_multiplier 模型压缩比率 默认为1不压缩，网上压缩设为0.3时模型文件在1M以内，且20ms**
 2. 运行 tensorboard
