@@ -1,16 +1,18 @@
 # Project-Arrangement
 
 ## 主任务
-1. 标注数据
-2. 基于已搭建好的tensorflow环境，用ssd+mobilenet训练模型，并在安卓端部署。
-3. 对仪表数据进行标注，完成仪表识别和仪表读数。（正在进行）
-4. 对其余数据进行标注，并训练模型。
+1. ~~标注数据~~
+2. ~~基于已搭建好的tensorflow环境，用ssd+mobilenet训练模型，并在安卓端部署。~~
+3. ~~对仪表数据进行标注，完成仪表识别和仪表读数。~~
+4. ~~对其余数据进行标注，并训练模型。~~
 
 ## 试验型任务（支线任务）
-1. tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。（完成）
-2. 将tensorflow pb模型转为lite，安卓部署试验。（完成）
-3. tensorflow 除了 ssd + mobilenet，是否还有其它在android上支持的模型？？？
-4. [ncnn](https://github.com/Tencent/ncnn) 看着不错，有时间搞搞。例子：[ncnnforandroid_objectiondetection_Mobilenetssd](https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd)
+- ~~tensorflow android开源的demo有三种目标目标检测模型，其它两种为yolo和multibox，试验一下yolo效果。~~
+- ~~将tensorflow pb模型转为lite，安卓部署试验。~~
+- tf_lite 除了 ssd + mobilenet，是否还有支持的目标检测模型？？？
+- tf_lite 支持的其他任务模型（最近又开源了一些，尤其是行为识别）
+- **阿里巴巴的 [MNN](https://github.com/alibaba/MNN) **
+- **腾讯的 [ncnn](https://github.com/Tencent/ncnn)** 例子：[ncnnforandroid_objectiondetection_Mobilenetssd](https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd)
 
 ## 主要问题：
 画面有被检测目标时，能框出目标。但是只有背景时，会出现大物体被误检。  
