@@ -11,7 +11,7 @@
 - ~~将tensorflow pb模型转为lite，安卓部署试验。~~
 - tf_lite 除了 ssd + mobilenet，是否还有支持的目标检测模型？？？
 - tf_lite 支持的其他任务模型（最近又开源了一些，尤其是行为识别）
-- **阿里巴巴的 [MNN](https://github.com/alibaba/MNN) **
+- **阿里巴巴的 [MNN](https://github.com/alibaba/MNN)**
 - **腾讯的 [ncnn](https://github.com/Tencent/ncnn)** 例子：[ncnnforandroid_objectiondetection_Mobilenetssd](https://github.com/chehongshu/ncnnforandroid_objectiondetection_Mobilenetssd)
 
 ## 主要问题：
