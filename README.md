@@ -22,18 +22,12 @@
 </p>  
 
 ## website
-[Detecting Pikachu on Android using Tensorflow Object Detection](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd)  
-  
-[Building a Toy Detector with Tensorflow Object Detection API](https://towardsdatascience.com/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)  
-  
-[tensorflow-android 官方demo源码分析](https://blog.csdn.net/u013510838/article/details/79827119)  
-  
-[TensorFlow Lite Object Detection Android Demo](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/android/README.md)  
-  
-[tensorflow-android get started object detection](https://tensorflow.google.cn/lite/models/object_detection/overview)  
-  
-[Running on mobile with TensorFlow Lite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)  
-  
-[tensorflow 源码安装](https://www.tensorflow.org/install/source)  
-  
-[TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+- [Detecting Pikachu on Android using Tensorflow Object Detection](https://towardsdatascience.com/detecting-pikachu-on-android-using-tensorflow-object-detection-15464c7a60cd)  
+- [Building a Toy Detector with Tensorflow Object Detection API](https://towardsdatascience.com/building-a-toy-detector-with-tensorflow-object-detection-api-63c0fdf2ac95)
+- [tensorflow-android get started object detection](https://tensorflow.google.cn/lite/models/object_detection/overview)  
+- [tensorflow-android 官方demo源码分析](https://blog.csdn.net/u013510838/article/details/79827119)  
+- [TensorFlow Lite Object Detection Android Demo](https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/android/README.md)  
+- [Running on mobile with TensorFlow Lite](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_mobile_tensorflowlite.md)  
+- [tensorflow 源码安装](https://www.tensorflow.org/install/source)  
+- [TensorFlow Android Camera Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android)
+- [NVIDIA 嵌入式平台](https://www.nvidia.cn/autonomous-machines/embedded-systems/)
