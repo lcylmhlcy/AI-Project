@@ -1,10 +1,10 @@
 ### 框架: 腾讯ncnn
 ### Android Studio版本: 3.6
 ### 模拟机:
-<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_1.png" alt="Sample" height=200>
+<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_1.png" alt="Sample" height=500>
 
 ### SDK:  
-<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_2.png" alt="Sample" height=200>
+<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_2.png" alt="Sample" height=500>
 
 ### NDK: 20.1  
 ### 环境: Window10  
@@ -15,16 +15,16 @@
 ### 具体步骤
 1. 新建工程：Native C++，C++ Standard：c++11
 2. 下载必需文件：（1）ncnn平台支持文件和依赖库；（2）yolo模型加密后的.id.h文件与模型文件
-    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_3.png" alt="Sample" height=200>
+    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_3.png" alt="Sample" height=500>
 
     注：只找到了linux系统编译方法，现在的电脑安虚拟机带不动，故直接找的已编译好的文件。
     教程：https://blog.csdn.net/qq_33431368/article/details/84990390
 
 3. 将ncnn的头文件支持加入到项目include文件夹中，并添加平台支持文件（选择具体对应平台即可）  
-    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_4.png" alt="Sample" height=200>
+    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_4.png" alt="Sample" height=500>
 
 4. 添加转换后的模型文件，其中words文件存放label  
-    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_5.png" alt="Sample" height=200>
+    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_5.png" alt="Sample" height=500>
 
 5. 添加模型头文件，添加识别图片，修改layout
 6. 在java文件夹中添加新类并实现
