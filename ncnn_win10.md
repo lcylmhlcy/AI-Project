@@ -1,10 +1,10 @@
 ### 框架: 腾讯ncnn
 ### Android Studio版本: 3.6
 ### 模拟机:
-<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_1.png" alt="Sample" height=200>
+    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_1.png" alt="Sample" height=200>
 
 ### SDK:  
-<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_2.png" alt="Sample" height=200>
+    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_2.png" alt="Sample" height=200>
 
 ### NDK: 20.1  
 ### 环境: Window10  
@@ -20,10 +20,10 @@
     注：只找到了linux系统编译方法，现在的电脑安虚拟机带不动，故直接找的已编译好的文件。
     教程：https://blog.csdn.net/qq_33431368/article/details/84990390
 
-3. 将ncnn的头文件支持加入到项目include文件夹中，并添加平台支持文件（选择具体对应平台即可）
+3. 将ncnn的头文件支持加入到项目include文件夹中，并添加平台支持文件（选择具体对应平台即可）  
     <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_4.png" alt="Sample" height=200>
 
-4. 添加转换后的模型文件，其中words文件存放label
+4. 添加转换后的模型文件，其中words文件存放label  
     <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_5.png" alt="Sample" height=200>
 
 5. 添加模型头文件，添加识别图片，修改layout
