@@ -1,10 +1,10 @@
 ### 框架: 腾讯ncnn
 ### Android Studio版本: 3.6
 ### 模拟机:
-    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_1.png" alt="Sample" height=200>
+<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_1.png" alt="Sample" height=200>
 
 ### SDK:  
-    <img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_2.png" alt="Sample" height=200>
+<img src="https://github.com/lcylmhlcy/Project-Arrangement/raw/master/img/ncnn_win_2.png" alt="Sample" height=200>
 
 ### NDK: 20.1  
 ### 环境: Window10  
